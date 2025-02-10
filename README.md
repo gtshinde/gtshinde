@@ -1,10 +1,13 @@
 # Welcome to My GitHub Profile! 🚀
-
-Hi there! 👋 I'm a passionate Business Analyst who loves leveraging data to drive informed decision-making and improve business processes. My projects here reflect my experience in extracting actionable insights using tools like Python, Excel, and Power BI. I'm particularly interested in solving real-world business challenges with data-driven solutions. 📊
+Hi there! 👋 
+## A Bit About Me
+- 🔍 I'm a detail -oriented Business Analyst with 4+ years of experience
+- 📊 My projects here reflect my experience in extracting actionable insights using tools like Python, Excel, and Power BI.
+- 💡 I'm particularly interested in solving real-world business challenges with data-driven solutions.
 
 Key Projects & Skills 💼
 
-## 🔍 Data Analysis & Visualization
+## 📑Data Analysis & Visualization
 
 I enjoy diving deep into data to uncover trends and patterns. Some highlights from my projects include:
 

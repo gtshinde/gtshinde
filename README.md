@@ -23,7 +23,7 @@ I enjoy diving deep into data to uncover trends and patterns. Some highlights fr
 
 ### ⚙️ [Business Process Modeling](https://github.com/gtshinde/BPMN_Diagrams)
 
-I enjoy creating BPMN diagrams to map and optimize complex business processes for business clarity .
+When starting a new project, I like to create BPMN diagrams to map and optimize complex business processes for clarity.
 
 ---
 💬 Want to Collaborate? Let's Connect!

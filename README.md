@@ -5,9 +5,9 @@ Hi there! 👋
 - 📊 My projects here reflect my experience in extracting actionable insights using tools like Python, Excel, and Power BI.
 - 💡 I'm particularly interested in solving real-world business challenges with data-driven solutions.
 
-Key Projects & Skills 💼
+## Key Projects & Skills 💼
 
-## 📑Data Analysis & Visualization
+### 📑Data Analysis & Visualization
 
 I enjoy diving deep into data to uncover trends and patterns. Some highlights from my projects include:
 
@@ -21,9 +21,9 @@ I enjoy diving deep into data to uncover trends and patterns. Some highlights fr
 
 📊 [Excel Dashboards](https://github.com/gtshinde/My_Excel_Dashboards): Created interactive and dynamic dashboards using pivot tables & power pivot to present data in a clear and insightful way. Some of my interesting dashboards are : TTC Subway Delays, Toys Retailer Dataset, Nike Sales & Coffee Sales.
 
-## ⚙️ [Business Process Modeling](https://github.com/gtshinde/BPMN_Diagrams)
+### ⚙️ [Business Process Modeling](https://github.com/gtshinde/BPMN_Diagrams)
 
-Created BPMN diagrams to map and optimize complex business processes for business clarity .
+I enjoy creating BPMN diagrams to map and optimize complex business processes for business clarity .
 
 ---
 💬 Want to Collaborate? Let's Connect!

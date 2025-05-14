@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 🚀
 Hi there! 👋 
 ## A Bit About Me
-- 🔍 I'm a detail -oriented Business Analyst with 4+ years of experience
+- 🔍 I'm a detail -oriented Data/Business Analyst with 5+ years of experience
 - 📊 My projects here reflect my experience in extracting actionable insights using tools like Python, Excel, and Power BI.
 - 💡 I'm particularly interested in solving real-world business challenges with data-driven solutions.
 

@@ -1,11 +1,17 @@
 # Welcome to My GitHub Profile! 🚀
 Hi there! 👋 
 ## A Bit About Me
-- 🔍 I'm a detail -oriented Data/Business Analyst with 4+ years of experience
-- 📊 My projects here reflect my experience in extracting actionable insights using tools like Python, Excel, and Power BI.
-- 💡 I'm particularly interested in solving real-world business challenges with data-driven solutions.
+- 🎗️ I specialize in building powerful, scalable workflow automations with n8n that turn complex processes into seamless systems.
+- 🔍 I have 4+ years of experience working as a Data/Business Analyst.
+- 📊 My projects here showcase my expertise in automating workflows with n8n and extracting actionable insights using tools like Python, Excel, and Power BI.
+- 💡 I'm particularly interested in solving real-world business challenges by creating solutions that save time, drive efficiency and increase productivity.
 
 ## Key Projects & Skills 💼
+### Workflow Automation
+
+[Vibe Cooking](https://lnkd.in/p/gPA4svEU): An agentic AI full-stack app to generate personalized, mood-aware recipes from pantry items.
+
+[Executive Personal Assistant](https://lnkd.in/p/gvrKjba5): An AI agent that manages real daily tasks—summarizing emails, scheduling, drafting replies, managing contacts, and remembering past conversations.
 
 ### 📑Data Analysis & Visualization
 
